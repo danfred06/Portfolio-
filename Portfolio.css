@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: silver;
+    padding: 5px;
+    margin:5px;
+}
+img{
+    margin: 75px;
+}
+body{
+    background-color: grey;
+}
+section main{
+    border:2px solid grey;
+    background-color: silver;
+    margin: 25px;
+}
+section{
+    border: 2px solid grey;
+    
+}
